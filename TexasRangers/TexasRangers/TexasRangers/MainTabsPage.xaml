@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TexasRangers.MainTabsPage">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="MENU">
+        <StackLayout>
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Label Text="TEXAS RANGERS" TextColor="White" FontSize="48" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            </Frame>
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Label Text="placeholder" TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout Padding="2">
+                <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
+                    <Button x:Name="FoodMenu" Text="Main Menu" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="FoodMenu_Clicked"/>
+                </Frame>
+                <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
+                    <Button x:Name="DrinksMenu" Text="Drinks" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="DrinksMenu_Clicked"/>
+                </Frame>
+                <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
+                    <Button x:Name="DessertsMenu" Text="Desserts" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent"/>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="BOOKINGS" />
+  <ContentPage Title="ABOUT" />
+</TabbedPage>

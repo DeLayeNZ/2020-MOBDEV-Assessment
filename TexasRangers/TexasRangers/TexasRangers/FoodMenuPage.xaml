@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TexasRangers.FoodMenuPage">
+
+    <Frame>
+        <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" Padding="5">
+            <Label Text="SIZZLING STEAK    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Mushrooms, olives, celery, choice of potatoes, coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="PLANKED STEAK    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Mushrooms, hot peppers, olives, celery, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="FILET MIGNON    --    $13.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Mushrooms, olives, celery, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="BIG SMALL STEAK    --    $9.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Tomato juice, salad, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="BROILED PORK CHOPS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Tomato juice, salad, potatoes, apple sauce, coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="LARGE LAMB CHOPS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Tomato juice, salad, potatoes and coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="HALF BARBECUED CHICKEN    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="HALF FRIED CHICKEN    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+            <Label FontSize="3"></Label>
+            <Label Text="BARBECUED RIBS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="14" FontAttributes="Italic"/>
+        </StackLayout>
+    </Frame>
+</ContentPage>
