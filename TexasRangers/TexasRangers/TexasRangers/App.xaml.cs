@@ -10,6 +10,10 @@ namespace TexasRangers
         {
             InitializeComponent();
 
+            var tabbedPage = new TabbedPage();
+            tabbedPage.Children.Add(new MainPage());
+           // tabbedPage.Children.Add(new ());
+            //tabbedPage.Children.Add(new ());
             MainPage = new NavigationPage (new MainTabsPage());
         }
 

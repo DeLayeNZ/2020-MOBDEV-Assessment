@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kDHKJPE7kiRawPpb8s10jr2+gZfauFadIEtNuvwnLVwNOVwd9KoG6PePJHoGTyAwMCwI6yEgHVNMBxNPA/kZw==",
+  "dgSpecHash": "bMrpKEUjZU/q3Ylka5EONqAnd9V+PTtoYCj2BSgEkXqZxF+XGgSiwtjS8DTDn/NcVIHK3Wli7s7+PJKzovpEVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gab De La Haye\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",

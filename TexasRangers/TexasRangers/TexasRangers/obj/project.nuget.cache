@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AWIqearONfZPwtGQLRb/T3EoAvWdwPXmzpm0mGmBwrswRB5/eJ7TzUsREBVBzmzRGhWXkjTZxNZR99qg6ka5pA==",
+  "dgSpecHash": "7+EH0AU++scTPZYTTz4FJwohDBMAfnRL2Vih0OvNYlkKOQZb1mOGd+0MhJijYqDrF6vn8pS9EgSbD0IsFHKIHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
+  "projectFilePath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

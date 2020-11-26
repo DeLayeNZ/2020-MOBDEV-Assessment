@@ -8,8 +8,9 @@
 
     <StackLayout>
         <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
-            <Label Text="TEXAS RANGERS" TextColor="White" FontSize="48" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            
         </Frame>
+        <Image Source="https://i1.sndcdn.com/avatars-Xi65fSMyIpnABXUw-ByTKKg-t200x200.jpg" Aspect="AspectFit" HorizontalOptions="Center"/>
         <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
             <Label Text="placeholder" TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalTextAlignment="Center"/>
         </Frame>

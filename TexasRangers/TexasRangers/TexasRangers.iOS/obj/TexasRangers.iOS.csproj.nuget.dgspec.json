@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj": {}
+    "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj": {
+    "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
         "projectName": "TexasRangers.iOS",
-        "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
+        "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\TexasRangers.iOS.csproj",
         "packagesPath": "C:\\Users\\Gab De La Haye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
-                "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj"
+              "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
+                "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
+    "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
+        "projectUniqueName": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
         "projectName": "TexasRangers",
-        "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
+        "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
         "packagesPath": "C:\\Users\\Gab De La Haye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\obj\\",
+        "outputPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

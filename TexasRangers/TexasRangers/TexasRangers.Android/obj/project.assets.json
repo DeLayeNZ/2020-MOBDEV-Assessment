@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.Android\\TexasRangers.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.Android\\TexasRangers.Android.csproj",
       "projectName": "TexasRangers.Android",
-      "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.Android\\TexasRangers.Android.csproj",
+      "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.Android\\TexasRangers.Android.csproj",
       "packagesPath": "C:\\Users\\Gab De La Haye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers.Android\\obj\\",
+      "outputPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
-              "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj"
+            "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
+              "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {}
+    "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
+    "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
+        "projectUniqueName": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
         "projectName": "TexasRangers",
-        "projectPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
+        "projectPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\TexasRangers.csproj",
         "packagesPath": "C:\\Users\\Gab De La Haye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gab De La Haye\\source\\repos\\TexasRangers\\TexasRangers\\TexasRangers\\obj\\",
+        "outputPath": "C:\\Users\\Gab De La Haye\\Documents\\GitHub\\2020-T4-EXAM\\TexasRangers\\TexasRangers\\TexasRangers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
