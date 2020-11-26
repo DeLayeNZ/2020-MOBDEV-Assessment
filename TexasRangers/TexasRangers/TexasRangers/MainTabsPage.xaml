@@ -5,30 +5,41 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TexasRangers.MainTabsPage">
-  <!--Pages can be added as references or inline-->
+
+    
     <ContentPage Title="MENU">
         <ScrollView>
             <StackLayout>
                 <Frame BackgroundColor="White" Padding="24" CornerRadius="0">
                     <Image Source="trlogo.png" Aspect="AspectFit" HorizontalOptions="Center"/>
                 </Frame>
-                <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Frame BackgroundColor="#7b212d" Padding="24" CornerRadius="0">
                     <Label Text="placeholder" TextColor="White" FontSize="20" FontAttributes="Italic" HorizontalTextAlignment="Center"/>
                 </Frame>
                 <StackLayout Padding="2">
-                    <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
+                    <Frame BackgroundColor="#042e68" Padding="24" CornerRadius="10">
                         <Button x:Name="FoodMenu" Text="Main Menu" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="FoodMenu_Clicked"/>
                     </Frame>
-                    <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
+                    <Frame BackgroundColor="#042e68" Padding="24" CornerRadius="10">
                         <Button x:Name="DrinksMenu" Text="Drinks" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="DrinksMenu_Clicked"/>
                     </Frame>
-                    <Frame BackgroundColor="Black" Padding="24" CornerRadius="10">
-                        <Button x:Name="DessertsMenu" Text="Desserts" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent"/>
+                    <Frame BackgroundColor="#042e68" Padding="24" CornerRadius="10">
+                        <Button x:Name="DessertsMenu" Text="Desserts" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="DessertsMenu_Clicked"/>
                     </Frame>
                 </StackLayout>
             </StackLayout>
         </ScrollView>
     </ContentPage>
-    <ContentPage Title="BOOKINGS" />
-  <ContentPage Title="ABOUT" />
+
+    
+    <ContentPage Title="BOOKINGS">
+        
+    </ContentPage>
+
+    
+    <ContentPage Title="ABOUT">
+        
+    </ContentPage>
+    
+    
 </TabbedPage>
