@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
+//TABBED PAGES BUTTONS
 namespace TexasRangers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -17,16 +19,22 @@ namespace TexasRangers
             InitializeComponent();
         }
 
+
+        // OPENS FOOD MENU
         private async void FoodMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new FoodMenuPage());
         }
 
+
+        //OPENS DRINKS MENU
         private async void DrinksMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new DrinksMenuPage());
         }
 
+
+        //OPENS DESSERTS MENU
         private async void DessertsMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new DessertsMenuPage());

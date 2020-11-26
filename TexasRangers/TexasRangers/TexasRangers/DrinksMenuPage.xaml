@@ -5,11 +5,74 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TexasRangers.DrinksMenuPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <ScrollView>
+        <Frame>
+            <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" Padding="5">
+                <Label Text="BONDED WHISKEY" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Old Taylor    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Old Overholt    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Old Grand Dad    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Old Crow    --    $35.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Old Republic    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                <Label Text="BOURBON WHISKEY" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Four Roses    --    $35.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Golden Wedding    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Old Oscar Pepper    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Bond And Lillard    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Ten High    --    $25.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                <Label Text="BLENDED WHISKEY" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Canadian Club    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Seagram's V.O.C.    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Seagram's 7 Crown    --    $35.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Seagram's 5 Crown    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Lord Calvert    --    $40.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                <Label Text="RYE WHISKEY" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Old Quaker    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Golden Wedding    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Paul Jones    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Town Tavern    --    $20.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Green River    --    $25.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                <Label Text="WINES" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Tokay    --    $20.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Port    --    $20.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Sherry    --    $20.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Moscato    --    $20.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Virginia Dare Sauternes    --    $25.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                <Label Text="BOTTLED BEER" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                <Label Text="Stroh's    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Budweiser    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Blue Ribbon    --    $30.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                <Label Text="Carling's Ale    --    $25.00" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+            </StackLayout>
+        </Frame>
+    </ScrollView>
 </ContentPage>

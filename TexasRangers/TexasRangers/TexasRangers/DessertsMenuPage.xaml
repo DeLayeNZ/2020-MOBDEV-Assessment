@@ -5,11 +5,31 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TexasRangers.DessertsMenuPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+    <Frame>
+        <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" Padding="5">
+            <Label Text="BIG OL' BROWNIE    --    $32.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Homemade brownie, choice of ice cream, chocolate sauce" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+            <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+            <Label Text="NAN'S APPLE PIE    --    $33.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Homemade apple pie, choice of ice cream, cinnamon caramel sauce" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+            <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+            <Label Text="CHOCOLATE CHIP SUNDAE    --    $30.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Homemade chocolate chip cookie, choice of ice cream, chocolate sauce, whipped cream, cherries" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+            <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+            <Label Text="STRAWBERRY CHEESECAKE    --    $32.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="Homemade cheesecake, whipped cream, strawberries" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
         </StackLayout>
-    </ContentPage.Content>
+    </Frame>
 </ContentPage>

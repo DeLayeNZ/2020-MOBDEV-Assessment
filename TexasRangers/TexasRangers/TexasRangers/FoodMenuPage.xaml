@@ -8,63 +8,63 @@
 
     <Frame>
         <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" Padding="5">
-            <Label Text="SIZZLING STEAK    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+            <Label Text="SIZZLING STEAK    --    $165.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Mushrooms, olives, celery, choice of potatoes, coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="PLANKED STEAK    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="PLANKED STEAK    --    $165.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Mushrooms, hot peppers, olives, celery, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="FILET MIGNON    --    $13.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="FILET MIGNON    --    $135.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Mushrooms, olives, celery, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="BIG SMALL STEAK    --    $9.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="BIG SMALL STEAK    --    $95.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Tomato juice, salad, choice of potatoes, grilled onions, coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="BROILED PORK CHOPS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="BROILED PORK CHOPS    --    $70.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Tomato juice, salad, potatoes, apple sauce, coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="LARGE LAMB CHOPS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="LARGE LAMB CHOPS    --    $70.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="Tomato juice, salad, potatoes and coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="HALF BARBECUED CHICKEN    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="HALF BARBECUED CHICKEN    --    $65.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="HALF FRIED CHICKEN    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="HALF FRIED CHICKEN    --    $65.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
             
             <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
-            
-            <Label Text="BARBECUED RIBS    --    $16.50" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
+
+            <Label Text="BARBECUED RIBS    --    $50.00" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
             <Label Text="French fries, cole slaw, bread, butter and coffee" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
         </StackLayout>
     </Frame>

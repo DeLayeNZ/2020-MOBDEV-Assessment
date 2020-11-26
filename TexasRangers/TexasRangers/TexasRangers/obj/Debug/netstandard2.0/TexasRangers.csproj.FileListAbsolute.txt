@@ -32,3 +32,4 @@ C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\TexasRangers.dll
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\ref\TexasRangers.dll
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\TexasRangers.pdb
+C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\DessertsMenuPage.xaml.g.cs

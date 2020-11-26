@@ -6,10 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
+//MAIN PAGE BUTTONS
 namespace TexasRangers
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
+
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
@@ -18,16 +19,22 @@ namespace TexasRangers
             InitializeComponent();
         }
 
+
+        //OPENS FOOD MENU
         private async void FoodMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new FoodMenuPage());
         }
 
+
+        //OPENS DRINKS MENU
         private async void DrinksMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new DrinksMenuPage());
         }
 
+
+        //OPENS DESSERTS MENU
         private async void DessertsMenu_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new DessertsMenuPage());
