@@ -37,8 +37,52 @@
     </ContentPage>
 
     
-    <ContentPage Title="ABOUT">
-        
+    <ContentPage BackgroundColor="White" Title="ABOUT">
+        <ScrollView>
+            <Frame>
+                <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" Padding="5">
+                    <Frame BackgroundColor="White" Padding="24" CornerRadius="0">
+                        <Image Source="people.png" Aspect="AspectFit" HorizontalOptions="Center"/>
+                    </Frame>
+
+                    <Label Text="OPENING HOURS:" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                    <Label Text="Monday to Thursday    --    10AM - 10PM" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                    <Label Text="Friday and Saturday    --    10AM - Late" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                    <Label Text="Sunday    --    10AM - 5PM" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+                    <Label Text="Public Holidays    --    10AM - 8PM" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                    <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                    <Label Text="ADDRESS:" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                    <Label Text="131 Queen Street, Auckland CBD, Auckland 1010" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                    <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                    <Label Text="EMAIL:" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                    <Label Text="goodfood@texasrangers.com" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                    <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+
+                    <Label Text="PHONE NUMBER:" TextColor="#042e68" FontSize="16" FontAttributes="Bold"/>
+                    <Label Text="0800 123 123" TextColor="Black" FontSize="13" FontAttributes="Italic"/>
+
+                    <Label Text="///////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////" FontSize="2"></Label>
+
+                    <Frame BackgroundColor="White" Padding="24" CornerRadius="0">
+                        <WebView x:Name="MapWebView" Source="https://mobile.here.com/p/h-aHR0cHM6Ly9wbGFjZXMuYXBpLmhlcmUuY29tL3BsYWNlcy92MS9wbGFjZXMvbG9jLWRtVnljMmx2YmoweE8zUnBkR3hsUFVObGJuUnlaU3REYjNWeWRDdFJkV1ZsYml0VGREdHNZVzVuUFdWdU8yeGhkRDB0TXpZdU9EUTJPRE01T1RBME56ZzFNVFUyTzJ4dmJqMHhOelF1TnpZMU56RTJOVFV5TnpNME16ZzdjM1J5WldWMFBWRjFaV1Z1SzFOME8yaHZkWE5sUFVObGJuUnlaU3REYjNWeWREdGphWFI1UFVGMVkydHNZVzVrTzNCdmMzUmhiRU52WkdVOU1UQXhNRHRqYjNWdWRISjVQVTVhVER0a2FYTjBjbWxqZEQxQmRXTnJiR0Z1WkN0RFpXNTBjbUZzTzNOMFlYUmxQVUYxWTJ0c1lXNWtPMk52ZFc1MGVUMUJkV05yYkdGdVpDdERhWFI1TzJOaGRHVm5iM0o1U1dROVluVnBiR1JwYm1jN2MyOTFjbU5sVTNsemRHVnRQV2x1ZEdWeWJtRnNPMjVzWVhROUxUTTJMamcwTmpnNE1UZzJOalExTlRBNE8yNXNiMjQ5TVRjMExqYzJOVGswTlRRek5EVTNNRE03Y0dSelEyRjBaV2R2Y25sSlpEMDVNREF0T1RNd01DMHdNREF3O2NvbnRleHQ9Wm14dmR5MXBaRDAzWm1Fek1XUTVPQzB3WTJJeExUVTROVFV0T0Roa1lpMHdNbVUzWmpNNE16QTBObVZmTVRZd05qUXlOelUyT0RJd01sODFORGd6WHpNME9TWnlZVzVyUFRBP2FwcF9pZD0zS0lRbHMyRFNLbE5XZmRhc3BCOSZhcHBfY29kZT1mMnZEbjFUVVlFVm40a1l0d0szN3l3?msg=Centre%20Court%20Queen%20St" VerticalOptions="FillAndExpand"/>
+                    </Frame>
+                </StackLayout>
+            </Frame>
+        </ScrollView>
     </ContentPage>
     
     
