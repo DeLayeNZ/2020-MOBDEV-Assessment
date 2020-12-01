@@ -6,8 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-
-//MAIN PAGE BUTTONS
 namespace TexasRangers
 {
 
@@ -39,5 +37,6 @@ namespace TexasRangers
         {
             await Navigation.PushAsync(new DessertsMenuPage());
         }
+
     }
 }
