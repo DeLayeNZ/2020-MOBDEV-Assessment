@@ -16,5 +16,15 @@ namespace TexasRangers
         {
             InitializeComponent();
         }
+
+        private void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+
+        }
+
+        private void NewBooking_Clicked(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

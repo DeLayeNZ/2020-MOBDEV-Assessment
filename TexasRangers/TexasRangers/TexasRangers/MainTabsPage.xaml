@@ -33,7 +33,19 @@
 
 
     <ContentPage Title="BOOKINGS">
-        
+        <StackLayout Padding="2">
+            <ListView x:Name="listView" Margin="20" ItemSelected="listView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}"
+                          Detail="{Binding Date}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Frame BackgroundColor="#042e68" Padding="24" CornerRadius="10">
+                <Button x:Name="NewBooking" Text="Make A Booking" TextColor="White" FontSize="24" FontAttributes="None" BackgroundColor="Transparent" Clicked="NewBooking_Clicked"/>
+            </Frame>
+        </StackLayout>
     </ContentPage>
 
     

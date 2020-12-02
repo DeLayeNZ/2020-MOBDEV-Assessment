@@ -32,6 +32,7 @@ C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\TexasRangers.pdb
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\DessertsMenuPage.xaml.g.cs
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\BookingsPage.xaml.g.cs
+C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\BookingEntryPage.xaml.g.cs
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\TexasRangers.csproj.CoreCompileInputs.cache
 C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\Gab De La Haye\Documents\GitHub\2020-T4-EXAM\TexasRangers\TexasRangers\TexasRangers\obj\Debug\netstandard2.0\BookingsPage.xaml.g.cs
